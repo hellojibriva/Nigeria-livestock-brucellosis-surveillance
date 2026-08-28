@@ -303,7 +303,6 @@ Disease: **Brucellosis**
 ## Disclaimer
 
 This repository represents an independent analytical exercise and does not constitute an official publication, position, endorsement, or statement by WOAH or the Government of Nigeria.
-
 All interpretations are limited to the extracted WAHIS data and the analytical methods documented in this repository.
 
-want to inspect the change first, because there are a couple of things we should verify before we push the polished version.
+want to inspect the change first, because there are a couple of things we should verify before we push the polished versio
