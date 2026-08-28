@@ -1,0 +1,18 @@
+﻿WAHIS field,Completeness,Populated records (of 24),Note
+Year,100%,24,
+Semester,100%,24,
+Administrative Division (state),100%,24,
+Disease,100%,24,Varies per record; source of the species/category breakdown
+Animal Category,100%,24,Constant: “Both animal categories”
+New outbreaks,100%,24,
+Serotype/Subtype/Genotype,0%,0,Unpopulated in every record — NOT the source of the species breakdown; that comes from the Disease field
+Species (host),0%,0,Unpopulated in every record
+Event_id,0%,0,Unpopulated in every record
+Outbreak_id,0%,0,Unpopulated in every record
+Susceptible,0%,0,Unpopulated in every record
+Measuring units,0%,0,Unpopulated in every record
+Cases,0%,0,Unpopulated in every record
+Killed and disposed of,0%,0,Unpopulated in every record
+Slaughtered,0%,0,Unpopulated in every record
+Deaths,0%,0,Unpopulated in every record
+Vaccinated,0%,0,Unpopulated in every record

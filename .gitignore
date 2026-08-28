@@ -1,0 +1,29 @@
+# Dependencies / environments
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Raw/source datasets
+source-data/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python generated files
+*.log
+
+# Temporary files
+*.tmp
+*.temp

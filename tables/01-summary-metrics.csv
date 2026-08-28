@@ -1,0 +1,11 @@
+﻿Metric,Value,What it is not
+WAHIS quantitative records,24,Not the outbreak count — one record can carry a New outbreaks value > 1
+Reported new outbreaks (sum of New outbreaks),39,Not 39 cases and not 39 infected animals — WAHIS reports no case- or animal-level counts in this extract
+States represented,15 of 37 (36 states + FCT),"Reporting coverage, not disease prevalence"
+Years with at least one record,10 of 16 (2008–2023),"A year with no record means no WAHIS record was identified, not that zero disease occurred"
+Half-year reporting periods represented,16 of 32,"Reporting coverage, not a 16-event count"
+Brucella species / categories present,3,"Derived from the Disease field, not from the (empty) Serotype/Subtype/Genotype field"
+Animal category,Both animal categories,Constant across every record in the extract
+Duplicate records (state × year × semester),0,
+Jan–Jun (H1) outbreaks,17,"A distribution by reporting semester, not a seasonality finding"
+Jul–Dec (H2) outbreaks,22,Same caveat

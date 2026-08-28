@@ -1,0 +1,26 @@
+﻿#,Year,Semester,Period,State,Geopolitical zone (derived),Disease (Brucella species/category),Animal category,New outbreaks
+1,2008,H1,Jan–Jun 2008,Adamawa,North East,Brucella abortus (Inf. with),Both animal categories,4
+2,2008,H2,Jul–Dec 2008,Kano,North West,Brucella abortus (Inf. with),Both animal categories,3
+3,2008,H2,Jul–Dec 2008,Nasarawa,North Central,Brucella abortus (Inf. with),Both animal categories,2
+4,2010,H1,Jan–Jun 2010,Kano,North West,Brucella abortus (Inf. with),Both animal categories,1
+5,2010,H2,Jul–Dec 2010,Osun,South West,Brucella abortus (Inf. with),Both animal categories,1
+6,2013,H1,Jan–Jun 2013,Enugu,South East,Brucella melitensis (Inf. with),Both animal categories,1
+7,2017,H2,Jul–Dec 2017,Kaduna,North West,Brucella abortus (Inf. with),Both animal categories,1
+8,2017,H2,Jul–Dec 2017,Katsina,North West,Brucella abortus (Inf. with),Both animal categories,1
+9,2018,H2,Jul–Dec 2018,Kwara,North Central,Brucella abortus (Inf. with),Both animal categories,1
+10,2018,H2,Jul–Dec 2018,Plateau,North Central,Brucella abortus (Inf. with),Both animal categories,4
+11,2019,H1,Jan–Jun 2019,Plateau,North Central,Brucella abortus (Inf. with),Both animal categories,4
+12,2019,H2,Jul–Dec 2019,Kaduna,North West,Brucella abortus (Inf. with),Both animal categories,1
+13,2019,H2,Jul–Dec 2019,Niger,North Central,Brucella abortus (Inf. with),Both animal categories,1
+14,2020,H1,Jan–Jun 2020,Kaduna,North West,Brucella abortus (Inf. with),Both animal categories,1
+15,2020,H1,Jan–Jun 2020,Niger,North Central,Brucella abortus (Inf. with),Both animal categories,1
+16,2020,H2,Jul–Dec 2020,Kaduna,North West,Brucella abortus (Inf. with),Both animal categories,2
+17,2021,H2,Jul–Dec 2021,Kwara,North Central,Brucella melitensis (Inf. with),Both animal categories,1
+18,2021,H2,Jul–Dec 2021,Zamfara,North West,Brucella suis (Inf. with),Both animal categories,1
+19,2022,H1,Jan–Jun 2022,Ekiti,South West,Brucella abortus (Inf. with),Both animal categories,2
+20,2022,H2,Jul–Dec 2022,Benue,North Central,Brucella melitensis (Inf. with),Both animal categories,2
+21,2023,H1,Jan–Jun 2023,Jigawa,North West,Brucella abortus (Inf. with),Both animal categories,1
+22,2023,H1,Jan–Jun 2023,Niger,North Central,Brucella abortus (Inf. with),Both animal categories,1
+23,2023,H1,Jan–Jun 2023,Ondo,South West,Brucella suis (Inf. with),Both animal categories,1
+24,2023,H2,Jul–Dec 2023,Zamfara,North West,Brucella abortus (Inf. with),Both animal categories,1
+,,,,,,,Total,39
